@@ -1,5 +1,5 @@
 # Globant Java Bootcamp 2018
-## Spring - REST - Git - Maven - Testing
+## Spring - REST - Git - Maven - Testing - RDB
 
 ![Globant](assets/globant.jpg)
 
@@ -59,6 +59,8 @@ exercises**
 9. [Learning Days](#learning-days)
 
     * [Topic 0: Introduction to Object Oriented Programming Concepts (OOP)](#topic-0-introduction-to-object-oriented-programming-concepts)
+    
+    * [Topic 0.2: Exceptions](#topic-0.2-exceptions)
 
     * [Topic 1: Git](#topic-1-git)
 
