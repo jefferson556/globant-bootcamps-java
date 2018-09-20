@@ -1,5 +1,6 @@
-# Globant Java Bootcamp 2018
+﻿# Globant Java Bootcamp 2018
 ## Spring - REST - Git - Maven - Testing - RDB
+
 
 ![Globant](assets/globant.jpg)
 
@@ -1115,4 +1116,19 @@ Commit your practice code.
 
 *10. What is a Cache? Which type of NoSQL db does a cache imply?*
 
+
 → [index](#index)
+
+------
+Group 3:
+
+Giorgio Tosti (giorger87)
+
+Agustin Cipollone (aguscipo)
+
+Nicolás Fernandez (Nico996)
+
+Group 1:
+
+Claudio Raverta (claudiorave)
+
